@@ -1,9 +1,11 @@
 0x07. Python - Test-driven development
-Name: Karlie Moyo
 
-Email: karlieemoyo@gmail.com
+Name: 	Timmy Nipri Williams
 
-Tel: +27844775229
+Email: tiii.williams84@gmail.com
+
+
+Tel: +2348037222584
 
 Python Scripts
 
@@ -39,4 +41,4 @@ What’s an interactive test. Why tests are important. How to write Docstrings t
 
 Collaborate
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+To collaborate, reach me through my email address tiii.williams84@gmail.com
